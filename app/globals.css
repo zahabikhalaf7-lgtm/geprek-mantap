@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --font-jakarta: var(--font-jakarta), ui-sans-serif, system-ui, sans-serif;
+  --font-oswald: var(--font-oswald), ui-sans-serif, system-ui, sans-serif;
+  --color-bromo-dark: #120f0d;
+  --color-bromo-card: #1c1917;
+  --color-bromo-orange: #dc2626;
+  --color-bromo-orange-hover: #b91c1c;
+  --color-bromo-text-muted: #a8a29e;
+}
+
+body {
+  background-color: var(--color-bromo-dark);
+  color: white;
+  font-family: var(--font-jakarta);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-oswald);
+  letter-spacing: 0.02em;
+}
+
+.container {
+  width: 80%;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
