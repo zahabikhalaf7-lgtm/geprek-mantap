@@ -6,7 +6,7 @@ import { ChevronDown } from 'lucide-react';
 
 const faqs = [
   {
-    question: 'Is Geprek Mantap Halal?',
+    question: 'Is Kafe Halal?',
     answer: 'Yes, absolutely. All our ingredients are sourced from 100% Halal certified suppliers. We take great pride in serving food that adheres to strict Halal standards so everyone can enjoy our meals with peace of mind.'
   },
   {
@@ -71,4 +71,5 @@ export default function FAQ() {
     </section>
   );
 }
+
 

@@ -7,7 +7,7 @@ const testimonials = [
   {
     name: 'Andi Pratama',
     role: 'via Google Review',
-    content: 'Gepreknya beneran pedes nampol! Sambal bawangnya juara, gak cuma pedes tapi gurih. Ayamnya juga crispy banget walaupun udah disiram sambal. Fix jadi langganan makan siang kantor.',
+    content: 'Menunya beneran pedes nampol! Sambal bawangnya juara, gak cuma pedes tapi gurih. Ayamnya juga crispy banget walaupun udah disiram sambal. Fix jadi langganan makan siang kantor.',
     image: 'https://randomuser.me/api/portraits/men/32.jpg'
   },
   {

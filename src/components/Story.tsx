@@ -38,12 +38,12 @@ export default function Story() {
           >
             <h2 className="text-4xl md:text-5xl font-black uppercase mb-2 leading-tight">
               Cerita di Balik <br />
-              <span className="text-bromo-orange">Geprek Mantap</span>
+              <span className="text-bromo-orange">Kafe</span>
             </h2>
             <div className="w-20 h-1 bg-bromo-orange mb-8 rounded-full"></div>
 
             <p className="text-gray-300 mb-6 leading-relaxed">
-              Lahir dari inspirasi kekuatan alam Gunung Bromo, kami menghadirkan cita rasa pedas yang otentik dan berani.
+              Lahir dari inspirasi kekuatan alam Nusantara, kami menghadirkan cita rasa pedas yang otentik dan berani.
             </p>
 
             <p className="text-gray-400 mb-10 text-sm leading-relaxed">
@@ -71,4 +71,5 @@ export default function Story() {
     </section>
   );
 }
+
 

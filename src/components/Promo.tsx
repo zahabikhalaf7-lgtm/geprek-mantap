@@ -36,7 +36,7 @@ export default function Promo() {
 
               <h3 className="text-3xl md:text-4xl font-black mb-4">Paket Kenyang Gila</h3>
               <p className="text-gray-300 text-lg mb-6">
-                Bayar <strong>Rp 10.000</strong> udah dapet Ayam Geprek + kenikmatan ambil sepuasnya!
+                Bayar <strong>Rp 10.000</strong> udah dapet Ayam Crispy + kenikmatan ambil sepuasnya!
               </p>
 
               <div className="space-y-3 mb-8 bg-white/5 p-6 rounded-xl border border-white/10">

@@ -28,13 +28,13 @@ export default function Hero() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-black leading-[0.9] mb-6 uppercase italic">
-            Geprek Pedas <br />
-            <span className="text-bromo-orange">Khas Mantap</span>
+            Kafe <br />
+            <span className="text-bromo-orange">Nuansa Eropa</span>
           </h1>
 
           <p className="text-lg text-gray-300 mb-8 max-w-lg leading-relaxed">
-            Nikmati sensasi pedas membara dari kawah Bromo langsung di lidah Anda.
-            Ayam geprek premium dengan sambal korek khas yang bikin ketagihan.
+            Nikmati sensasi pedas membara khas Nusantara langsung di lidah Anda.
+            Ayam crispy premium dengan sambal korek khas yang bikin ketagihan.
           </p>
 
           <div className="flex flex-wrap gap-4">

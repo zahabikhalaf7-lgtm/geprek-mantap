@@ -57,7 +57,7 @@ export default function Footer() {
             <div className="w-8 h-8 bg-bromo-orange rounded-full flex items-center justify-center">
               <span className="text-white font-bold text-lg">ðŸ”¥</span>
             </div>
-            <span className="text-xl font-bold tracking-tighter uppercase">Geprek Mantap</span>
+            <span className="text-xl font-bold tracking-tighter uppercase">Kafe</span>
           </div>
 
           <div className="flex gap-8 text-sm text-gray-400">
@@ -81,10 +81,11 @@ export default function Footer() {
         </div>
 
         <div className="text-center mt-10 text-xs text-gray-600">
-          Â© 2025 Geprek Mantap. All rights reserved.
+          Â© 2025 Kafe. All rights reserved.
         </div>
       </div>
     </footer>
   );
 }
+
 

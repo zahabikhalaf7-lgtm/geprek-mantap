@@ -33,7 +33,7 @@ export default function Features() {
         <div className="flex flex-col md:flex-row justify-between items-end mb-12">
           <div>
             <span className="text-bromo-orange font-bold tracking-widest text-sm uppercase">Keunggulan Kami</span>
-            <h2 className="text-3xl md:text-4xl font-black mt-2">Kenapa Pilih Geprek Mantap?</h2>
+            <h2 className="text-3xl md:text-4xl font-black mt-2">Kenapa Pilih Kafe?</h2>
           </div>
           <div className="mt-4 md:mt-0 bg-white/5 px-4 py-2 rounded-full border border-white/10 flex items-center gap-2">
             <span className="text-bromo-orange">ðŸ‘¥</span>
@@ -64,4 +64,5 @@ export default function Features() {
     </section>
   );
 }
+
 

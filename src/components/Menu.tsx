@@ -6,7 +6,7 @@ import { Plus } from 'lucide-react';
 const menuItems = [
   {
     id: 1,
-    name: 'Ayam Geprek Sambal Bawang',
+    name: 'Ayam Crispy Sambal Bawang',
     description: 'Ayam goreng crispy dibalut sambal bawang yang pedas gurih, disajikan dengan nasi hangat dan lalapan.',
     price: 'Rp 25.000',
     image: 'https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=2026&auto=format&fit=crop',
@@ -14,7 +14,7 @@ const menuItems = [
   },
   {
     id: 2,
-    name: 'Ayam Geprek Sambal Hijau',
+    name: 'Ayam Crispy Sambal Hijau',
     description: 'Sensasi pedas segar dari cabai hijau pilihan yang diulek kasar, meresap hingga ke tulang.',
     price: 'Rp 27.000',
     image: 'https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?q=80&w=2070&auto=format&fit=crop',

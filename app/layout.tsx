@@ -15,9 +15,9 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-    title: 'Geprek Mantap â€” Geprek Pedas Khas Bromo',
+    title: 'Kafe - Kuliner Pedas Khas Nusantara',
     description:
-        'Nikmati sensasi pedas membara dari kawah Bromo langsung di lidah Anda. Ayam geprek premium dengan sambal korek khas yang bikin ketagihan.',
+        'Nikmati sensasi pedas membara khas Nusantara langsung di lidah Anda. Ayam crispy premium dengan sambal korek khas yang bikin ketagihan.',
 };
 
 export default function RootLayout({
@@ -33,4 +33,5 @@ export default function RootLayout({
         </html>
     );
 }
+
 

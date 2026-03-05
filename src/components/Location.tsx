@@ -11,7 +11,7 @@ export default function Location() {
           <div>
             <h2 className="text-4xl md:text-5xl font-black mb-6">Visit Our Volcano</h2>
             <p className="text-gray-400 mb-10 text-lg">
-              Experience the heat in person. Find the nearest Geprek Mantap outlet and taste the legend.
+              Experience the heat in person. Find the nearest Kafe outlet and taste the legend.
             </p>
 
             <div className="bg-bromo-card p-8 rounded-3xl border border-white/5 shadow-2xl">
@@ -64,7 +64,7 @@ export default function Location() {
               allowFullScreen
               loading="lazy"
               className="w-full h-full"
-              title="Geprek Mantap Location"
+              title="Kafe Location"
             ></iframe>
 
             {/* Custom Pin Overlay */}
@@ -80,4 +80,5 @@ export default function Location() {
     </section>
   );
 }
+
 

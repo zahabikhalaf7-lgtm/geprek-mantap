@@ -18,7 +18,7 @@ export default function InstagramFeed() {
         <div className="flex flex-col md:flex-row justify-between items-center mb-12">
           <div className="text-center md:text-left mb-6 md:mb-0">
             <h2 className="text-3xl font-black mb-2">Ikuti Kami di Instagram</h2>
-            <p className="text-gray-400">@geprekbromo</p>
+            <p className="text-gray-400">@kafeindonesia</p>
           </div>
           <button className="bg-bromo-orange hover:bg-bromo-orange-hover text-white px-6 py-3 rounded-full font-bold flex items-center gap-2 transition-colors">
             <Instagram size={20} />

@@ -33,7 +33,7 @@ export default function Navbar() {
           <div className="w-8 h-8 bg-bromo-orange rounded-full flex items-center justify-center">
             <span className="text-white font-bold text-lg">ðŸ”¥</span>
           </div>
-          <span className="text-xl md:text-2xl font-bold tracking-tighter uppercase">Geprek Mantap</span>
+          <span className="text-xl md:text-2xl font-bold tracking-tighter uppercase">Kafe</span>
         </div>
 
         {/* Desktop Menu */}
